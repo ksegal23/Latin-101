@@ -1,3 +1,5 @@
+**+2. Excellent! Please note spelling *genitive*.**
+
 1. The three genders of Latin nouns are masculine, feminine, and neuter. 
 2. The three pieces of information in a Latin dictionary entry for a noun include the nominative singular, the genitive singular, and the gender. 
 3. The declension of a Latin noun can be determined by looking at the ending of the genitive singular (found in the dictionary entry). 
