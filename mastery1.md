@@ -11,6 +11,21 @@ Antaeum, terrae filium, in Libyā Hercules **occidit**. hic hospites **interfici
 7. misit - perfect active, 3rd person singular "he sent" (3rd conj)
 
 
+Noun-Adjective Agreement
+"the previous god" (prior, prioris - 3rd decl  /  deus, dei, m. - 2nd decl) 
 
+Singular:
+Case                 Masc         
+Nominative        prior deus
+Genative          prioris dei
+Dative            priori deo
+Accusative        priorem deum
+Ablative          priori deo
 
-
+Plural:
+Case                 Masc         
+Nominative        priores dei
+Genative          priorium deorum
+Dative            prioribus deis
+Accusative        priores deos
+Ablative          prioribus deis
