@@ -14,18 +14,16 @@ Antaeum, terrae filium, in Libyā Hercules **occidit**. hic hospites **interfici
 Noun-Adjective Agreement
 "the previous god" (prior, prioris - 3rd decl  /  deus, dei, m. - 2nd decl) 
 
-Singular:
-Case                 Masc         
-Nominative        prior deus
-Genative          prioris dei
-Dative            priori deo
-Accusative        priorem deum
-Ablative          priori deo
+Singular (Masc):         
+1. Nominative        prior deus
+2. Genative          prioris dei
+3. Dative            priori deo
+4. Accusative        priorem deum
+5. Ablative          priori deo
 
-Plural:
-Case                 Masc         
-Nominative        priores dei
-Genative          priorium deorum
-Dative            prioribus deis
-Accusative        priores deos
-Ablative          prioribus deis
+Plural (Masc):       
+1. Nominative        priores dei
+2. Genative          priorium deorum
+3. Dative            prioribus deis
+4. Accusative        priores deos
+5. Ablative          prioribus deis
