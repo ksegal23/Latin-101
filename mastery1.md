@@ -27,3 +27,37 @@ Plural (Masc):
 3. Dative            prioribus deis
 4. Accusative        priores deos
 5. Ablative          prioribus deis
+
+
+Pronouns
+"the former-mentioned ship" (nauis, nauis, f - 3rd decl, haec)
+
+Singular:
+1. Nominative       haec nauis
+2. Genative         huius nauis
+3. Dative           huic naui
+4. Accusative       hanc nauem
+5. Ablative         hac naui
+
+Plural
+1. Nominative       hae naues
+2. Genative         harum nauium
+3. Dative           his nauibus
+4. Accusative       has naues
+5. Ablative         his nauibus
+
+
+Verb Forms
+
+capio - 3rd person singular, feminine
+1. Imperfect Active
+2. Imperfect Passive
+3. Perfect Active
+4. Perfect Passive
+
+
+uideo - 3rd person singular, neuter
+1. Imperfect Active
+2. Imperfect Passive
+3. Perfect Active
+4. Perfect Passive 
