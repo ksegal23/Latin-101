@@ -33,31 +33,31 @@ Pronouns
 "the former-mentioned ship" (nauis, nauis, f - 3rd decl, haec)
 
 Singular:
-1. Nominative       haec nauis
-2. Genative         huius nauis
-3. Dative           huic naui
-4. Accusative       hanc nauem
-5. Ablative         hac naui
+1. Nominative -      haec nauis
+2. Genative   -      huius nauis
+3. Dative -          huic naui
+4. Accusative   -    hanc nauem
+5. Ablative    -     hac naui
 
 Plural
-1. Nominative       hae naues
-2. Genative         harum nauium
-3. Dative           his nauibus
-4. Accusative       has naues
-5. Ablative         his nauibus
+1. Nominative   -    hae naues
+2. Genative   -      harum nauium
+3. Dative     -      his nauibus
+4. Accusative    -   has naues
+5. Ablative     -    his nauibus
 
 
 Verb Forms
 
 capio - 3rd person singular, feminine
-1. Imperfect Active
-2. Imperfect Passive
-3. Perfect Active
-4. Perfect Passive
+1. Imperfect Active - capēbat
+2. Imperfect Passive - capēbatur
+3. Perfect Active - cēpit
+4. Perfect Passive - capta est
 
 
-uideo - 3rd person singular, neuter
-1. Imperfect Active
-2. Imperfect Passive
-3. Perfect Active
-4. Perfect Passive 
+uideo - 3rd person plural, neuter
+1. Imperfect Active - uidēbant
+2. Imperfect Passive - uidēbantur
+3. Perfect Active - uidērunt
+4. Perfect Passive - uisa sunt
