@@ -15,18 +15,18 @@ Noun-Adjective Agreement
 "the previous god" (prior, prioris - 3rd decl  /  deus, dei, m. - 2nd decl) 
 
 Singular (Masc):         
-1. Nominative        prior deus
-2. Genative          prioris dei
-3. Dative            priori deo
-4. Accusative        priorem deum
-5. Ablative          priori deo
+1. Nominative   -     prior deus
+2. Genative    -      prioris dei
+3. Dative     -       priori deo
+4. Accusative    -    priorem deum
+5. Ablative     -     priori deo
 
 Plural (Masc):       
-1. Nominative        priores dei
-2. Genative          priorium deorum
-3. Dative            prioribus deis
-4. Accusative        priores deos
-5. Ablative          prioribus deis
+1. Nominative    -    priores dei
+2. Genative    -      priorium deorum
+3. Dative      -      prioribus deis
+4. Accusative   -     priores deos
+5. Ablative     -     prioribus deis
 
 
 Pronouns
