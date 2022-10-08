@@ -1,4 +1,6 @@
-Identifing Verbs
+**+1 Excellent, with a few small revisions to be perfect. Please see notes below.**
+
+Identifing Verbs ✅ **(Don't forget the mood: these are all indicative)**
 
 Antaeum, terrae filium, in Libyā Hercules **occidit**. hic hospites **interficiebat**; hunc luctando ille **necauit**. Cygnum, Martis filium, armis **occidit**. Mars **uenit** et armis propter filium **contendit** cum eo, sed Iouis inter eos fulmen **misit**.
 
@@ -11,7 +13,7 @@ Antaeum, terrae filium, in Libyā Hercules **occidit**. hic hospites **interfici
 7. misit - perfect active, 3rd person singular "he sent" (3rd conj)
 
 
-Noun-Adjective Agreement
+Noun-Adjective Agreement  ✅ 
 "the previous god" (prior, prioris - 3rd decl  /  deus, dei, m. - 2nd decl) 
 
 Singular (Masc):         
@@ -29,7 +31,8 @@ Plural (Masc):
 5. Ablative     -     prioribus deis
 
 
-Pronouns
+Pronouns ✅ **(These forms are all correct, but "former" should normally be *ille*, and *hic* would be "latter")**
+
 "the former-mentioned ship" (nauis, nauis, f - 3rd decl, haec)
 
 Singular:
@@ -50,8 +53,8 @@ Plural
 Verb Forms
 
 capio - 3rd person singular, feminine
-1. Imperfect Active - capēbat
-2. Imperfect Passive - capēbatur
+1. Imperfect Active - capēbat ❌
+2. Imperfect Passive - capēbatur ❌
 3. Perfect Active - cēpit
 4. Perfect Passive - capta est
 
