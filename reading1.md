@@ -15,7 +15,7 @@
 Translation:
 
 
-Hercules killed Antaeus, the son of the Earth, in Libyia. He [Hercules]/❌ [should refer to Antaues] repeatedly killed visitors; [Hercules killed Antaues by wresling] Antaues❌ killed by wrestling. Cygnum, the son of Mars, dies [died]❌ by weapon. Mars comes [came] and [fought with Hercules] because his son is hurt [was killed], struggles with him, but Jupiter sends [sent]❌ a lightning bolt between them. Hesione was put next to [the whale at] Troy. He [(the whale) died/fell down]; comes to [take out] Laomedon, father of Hesione, [kills the whale with arrows because he does not return her (Hesione)] because he does not surrender to her, and kills him. 
+Hercules killed Antaeus, the son of the Earth, in Libyia. He [Hercules]/❌ [should refer to Antaues] repeatedly killed visitors; [Hercules killed Antaues by wresling] Antaues❌ killed by wrestling. Cygnum, the son of Mars, dies [died]❌ by weapon. Mars comes [came] and [fought with Hercules] because his son is hurt [was killed], struggles with him, but Jupiter sends [sent]❌ a lightning bolt between them. Hesione was put next to [the whale at] Troy. He [(the whale) died/fell down]; comes to [take out] Laomedon, father of Hesione, [Hercules kills Laomedonta, the father of Hesiones, with arrows because he does not return her (Hesione) to him (hercules)] because he does not surrender to her, and kills him. 
 
 
 
