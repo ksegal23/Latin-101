@@ -1,4 +1,4 @@
-1. Daedalus pennas **sibi** (dative) et Icaro filio fecit. Daedalus gave the feathers to himself and his son Icarus. 
+1. Daedalus pennas **sibi** (dative) et Icaro filio fecit. Daedalus made the wings for himself and his son Icarus. 
 2. Bacchus Ariadnen amauit et **sibi** (dative) in coniugium abduxit. Dionyses loved Ariadnen and gave himself away in marriage.
 3. Pelopia gladium eripuit, et in pectus **sibi** (dative) detrusit. Pelopia snatched the sword, and thrusted it into her chest herself.  
 4. Iuno Venus Minerua formam **sibi** (dative) uindicauerunt. Jupiter, Venus, and Minerva laid claim to their conformation themselves. 
