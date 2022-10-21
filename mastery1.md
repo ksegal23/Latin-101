@@ -1,4 +1,4 @@
-**+1 Excellent, with a few small revisions to be perfect. Please see notes below.**
+**+2 Satisfactory**
 
 Identifing Verbs ✅ **(Don't forget the mood: these are all indicative)**
 
@@ -53,8 +53,8 @@ Plural
 Verb Forms
 
 capio - 3rd person singular, feminine
-1. Imperfect Active - capēbat ❌ capiebat
-2. Imperfect Passive - capēbatur ❌ capiebatur
+1. Imperfect Active - capēbat ❌ capiebat ✅
+2. Imperfect Passive - capēbatur ❌ capiebatur ✅
 3. Perfect Active - cēpit
 4. Perfect Passive - capta est
 
