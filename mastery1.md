@@ -53,8 +53,8 @@ Plural
 Verb Forms
 
 capio - 3rd person singular, feminine
-1. Imperfect Active - capēbat ❌
-2. Imperfect Passive - capēbatur ❌
+1. Imperfect Active - capēbat ❌ capiebat
+2. Imperfect Passive - capēbatur ❌ capiebatur
 3. Perfect Active - cēpit
 4. Perfect Passive - capta est
 
