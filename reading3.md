@@ -9,7 +9,7 @@ Cum *Achīvī* decem annōs in Troia **fuissent**, *Epeus* mirae magnitūdinis e
 5. What are the person, number, tense, mood, and voice of collecti sunt (line 2)? 3 person singular masc passive perfect indicative
 6. What type of clause is cum id Troianī vidērunt (lines 4-5) and what part of speech is cum? cum is a preposition and it introduces a time clause
 7. What case is ei in line 6 and what function does it play in the sentence? ei is dative, refers to Cassandra, and is the indirect object
-8. What irregular verb does exierunt (line 7) come from? from eo,ire,ii -- ex+ierunt = to go out / exit 
+8. What irregular verb does exierunt (line 7) come from? from eo,ire,ii -- ex+ire = to go out / exit 
 
 
 
