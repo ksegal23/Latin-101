@@ -1,0 +1,1 @@
+Cum Achiui non possent potiri Troiam, ligneum equum fecerunt. Hyginus scriptsit equum ab Epeio factum esse. Achiua Duces se in equum absondiderunt. Cassandra dicebat hostes in equo esse, sed nemo ei crederunt. Troiani crederunt Achivos apscedum essent. Hoc nox, cum Troiana equum pro templo profactuissent, Achivos ab equum exierunt et potirerunt Troiam.  
