@@ -5,8 +5,8 @@ Duco (3 sing f)
                      Active        Passive
 1. imperf indic: ducebat        ducebatur
 2. imperf subj: duceret       duceretur
-3. perf indic: duxit          data❌ est
-4. pluperf subj: duxisset     ducta esse❌
+3. perf indic: duxit          data❌ est.  [ducta est]
+4. pluperf subj: duxisset     ducta esse❌   [ductam esset]
 5. present infin: ducere      duxi 
 6. perf infin: duxisse        ducta esse
 
@@ -14,9 +14,9 @@ Duco (3 sing f)
 
 Audio (3 pl m)
                     Active        Passive
-1. imperf indic: audibant❌       audibantur❌
+1. imperf indic: audibant❌       audibantur❌            
 2. imperf subj: audirent        audirentur
-3. perf indic: auderunt❌         auditi sunt
+3. perf indic: auderunt❌   [audiuerunt]      auditi sunt
 4. pluperf subj: audiuissent    auditi essent
 5. present infin: audire        audiri
 6. perf infin:  audissent       auditi essent
