@@ -6,7 +6,7 @@ Cum *Achīvī* decem annōs in Troia **fuissent**, *Epeus* mirae magnitūdinis e
 
 1. Highlight all the finite verbs with two asterisks like this, and the subjects with one asterisk like this.
 2. What is the case of decem annōs (line 1) and what use of that case? accussative, duration of time
-3. What is the person, number, tense, voice, and mood of fuissent (line 1)? Explain its mood. 3 pl active pluperfect subjunctive, explains a circrumstance that has already happened 
+3. What is the person, number, tense, voice, and mood of fuissent (line 1)? Explain its mood. 3 pl active pluperfect subjunctive, explains a circumstance that has already happened 
 4. What is the case, number, and gender of mirae magnitūdinis (line 1) and how is it functioning in the sentence? genitive, singular, feminine; describes the horse
 5. What are the person, number, tense, mood, and voice of collecti sunt (line 2)? 3 person singular masc passive perfect indicative
 6. What type of clause is cum id Troianī vidērunt (lines 4-5) and what part of speech is cum? cum is a preposition❌ [subordinating conjunction] and it introduces a time clause using the indicative 
