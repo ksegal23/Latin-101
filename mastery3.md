@@ -6,7 +6,7 @@ Duco (3 sing f)
 1. imperf indic: ducebat        ducebatur
 2. imperf subj: duceret       duceretur
 3. perf indic: duxit          data❌ est.  [ducta est]
-4. pluperf subj: duxisset     ducta esse❌   [ductam esset]
+4. pluperf subj: duxisset     ducta esse❌   [ducta esset]
 5. present infin: ducere      duxi 
 6. perf infin: duxisse        ducta esse
 
